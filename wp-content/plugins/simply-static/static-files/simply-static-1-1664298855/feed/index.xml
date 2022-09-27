@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>haru映画工作室</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>搞艺术嘛，重在参与</description>
+	<lastBuildDate>Sun, 25 Sep 2022 09:37:20 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/09/cropped-11-e1664099718431-32x32.jpg</url>
+	<title>haru映画工作室</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>世界，您好！</title>
+		<link>/2022/09/25/hello-world/</link>
+					<comments>/2022/09/25/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[v]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2022 09:37:20 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
+										<content:encoded><![CDATA[
+<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/09/25/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
